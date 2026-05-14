@@ -2491,7 +2491,7 @@ RESPONSIVE
     #innovacion .inside-prev{ left: -30px; }
     .innova li{width:100%}
     .hero-scroll span{ height:50px}
-    .navbar-light .navbar-toggler{margin-top:0px}
+    .navbar-light .navbar-toggler{margin-top:0px!important}
     .navbar-collapse{margin-top:140px}
 }
 
