@@ -2376,10 +2376,11 @@ RESPONSIVE
 
     .hero-copy{
         margin-top:40px;
+        width: calc(100vw - 60px);
     }
 
     .hero-title{
-        font-size:45px;
+        font-size:45px; white-space:normal
     }
 
     .hero-number{
