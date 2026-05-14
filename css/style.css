@@ -2489,6 +2489,7 @@ RESPONSIVE
     }
     #innovacion .inside-next{ right: -30px; }
     #innovacion .inside-prev{ left: -30px; }
+    .innova li{width:100%}
 }
 
 @media screen and (max-width: 800px) {
